@@ -5,5 +5,4 @@
 }
 "dependencies": {
     "vite": "^4.5.0",
-    // ... other dependencies
   }
